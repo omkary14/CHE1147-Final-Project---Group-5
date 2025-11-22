@@ -1,0 +1,18 @@
+name: modelling_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - statsmodels
+  - xgboost
+  - shap
+  - jupyterlab
+  - ipywidgets
+  - pip
