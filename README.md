@@ -1,6 +1,6 @@
 # 💥 Prediction of LPG Blast Wave Pressure using Machine Learning - Group 5
 
-This project focuses on developing machine learning models to accurately **predict the maximum blast wave overpressure** resulting from a Liquefied Petroleum Gas (LPG) explosion. This predictive capability is crucial for risk assessment and safety engineering in industrial and residential settings.
+This project focuses on developing machine learning models to accurately **predict the maximum blast wave overpressure** resulting from a Liquefied Petroleum Gas (LPG) explosion. This predictive capability is crucial for risk assessment and safety engineering in industrial and residential settings. (The 'notebook' folder contains our code with .ipynb and .py extensions)
 
 ---
 
